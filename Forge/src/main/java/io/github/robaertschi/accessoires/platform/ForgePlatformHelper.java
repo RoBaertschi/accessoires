@@ -1,6 +1,6 @@
-package com.example.examplemod.platform;
+package io.github.robaertschi.accessoires.platform;
 
-import com.example.examplemod.platform.services.IPlatformHelper;
+import io.github.robaertschi.accessoires.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 

@@ -1,4 +1,4 @@
-package com.example.examplemod.platform.services;
+package io.github.robaertschi.accessoires.platform.services;
 
 public interface IPlatformHelper {
 

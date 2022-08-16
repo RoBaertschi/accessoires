@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package io.github.robaertschi.accessoires;
 
-import com.example.examplemod.platform.Services;
+import io.github.robaertschi.accessoires.platform.Services;
 import net.minecraft.core.Registry;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.food.FoodProperties;

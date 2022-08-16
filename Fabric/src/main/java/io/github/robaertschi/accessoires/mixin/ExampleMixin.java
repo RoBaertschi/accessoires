@@ -1,6 +1,6 @@
-package com.example.examplemod.mixin;
+package io.github.robaertschi.accessoires.mixin;
 
-import com.example.examplemod.Constants;
+import io.github.robaertschi.accessoires.Constants;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
